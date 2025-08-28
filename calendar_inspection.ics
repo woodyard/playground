@@ -39,12 +39,12 @@ DTEND;TZID=Europe/Copenhagen:20250720T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Silkeborg IF [3F Superliga]
+DESCRIPTION:Brøndby IF - Silkeborg IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/94974
 DTSTAMP:20250715T145838
-LOCATION: TV2 SPORT X\,  TV2 Play
-SUMMARY: Brøndby IF - Silkeborg IF [3F Superliga]
+LOCATION:TV2 SPORT X\,  TV2 Play
+SUMMARY:Brøndby IF - Silkeborg IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD96899
@@ -58,12 +58,12 @@ DTEND;TZID=Europe/Copenhagen:20250724T224000
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Havnar Bóltfelag - Brøndby IF [UEFA Europa Conference League]
+DESCRIPTION:Havnar Bóltfelag - Brøndby IF [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/96899
 DTSTAMP:20250722T180111
-LOCATION: LIVE Stream
-SUMMARY: Havnar Bóltfelag - Brøndby IF [UEFA Europa Conference League]
+LOCATION:LIVE Stream
+SUMMARY:Havnar Bóltfelag - Brøndby IF [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD94979
@@ -77,12 +77,12 @@ DTEND;TZID=Europe/Copenhagen:20250727T195500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: FC Nordsjælland - Brøndby IF [3F Superliga]
+DESCRIPTION:FC Nordsjælland - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/94979
 DTSTAMP:20250718T101508
-LOCATION: TV3+\,  Viaplay
-SUMMARY: FC Nordsjælland - Brøndby IF [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:FC Nordsjælland - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD96901
@@ -96,12 +96,12 @@ DTEND;TZID=Europe/Copenhagen:20250731T212500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Havnar Bóltfelag [UEFA Europa Conference League]
+DESCRIPTION:Brøndby IF - Havnar Bóltfelag [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/96901
 DTSTAMP:20250718T101541
-LOCATION: Disney+
-SUMMARY: Brøndby IF - Havnar Bóltfelag [UEFA Europa Conference League]
+LOCATION:Disney+
+SUMMARY:Brøndby IF - Havnar Bóltfelag [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD94986
@@ -115,12 +115,12 @@ DTEND;TZID=Europe/Copenhagen:20250803T195500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Viborg FF [3F Superliga]
+DESCRIPTION:Brøndby IF - Viborg FF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/94986
 DTSTAMP:20250718T101710
-LOCATION: TV3+\,  Viaplay
-SUMMARY: Brøndby IF - Viborg FF [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:Brøndby IF - Viborg FF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD98128
@@ -134,12 +134,12 @@ DTEND;TZID=Europe/Copenhagen:20250807T224000
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Knattspyrnufélag Reykjavíkur - Brøndby IF [UEFA Europa Conference League]
+DESCRIPTION:Knattspyrnufélag Reykjavíkur - Brøndby IF [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/98128
 DTSTAMP:20250806T175139
-LOCATION: Viaplay Sport News\,  Viaplay
-SUMMARY: Knattspyrnufélag Reykjavíkur - Brøndby IF [UEFA Europa Conference League]
+LOCATION:Viaplay Sport News\,  Viaplay
+SUMMARY:Knattspyrnufélag Reykjavíkur - Brøndby IF [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD94991
@@ -153,12 +153,12 @@ DTEND;TZID=Europe/Copenhagen:20250810T195500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Vejle Boldklub [3F Superliga]
+DESCRIPTION:Brøndby IF - Vejle Boldklub [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/94991
 DTSTAMP:20250723T112533
-LOCATION: TV3+\,  Viaplay
-SUMMARY: Brøndby IF - Vejle Boldklub [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:Brøndby IF - Vejle Boldklub [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD98126
@@ -172,12 +172,12 @@ DTEND;TZID=Europe/Copenhagen:20250814T212500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Knattspyrnufélag Reykjavíkur [UEFA Europa Conference League]
+DESCRIPTION:Brøndby IF - Knattspyrnufélag Reykjavíkur [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/98126
 DTSTAMP:20250801T164935
-LOCATION: Disney+
-SUMMARY: Brøndby IF - Knattspyrnufélag Reykjavíkur [UEFA Europa Conference League]
+LOCATION:Disney+
+SUMMARY:Brøndby IF - Knattspyrnufélag Reykjavíkur [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD94997
@@ -191,12 +191,12 @@ DTEND;TZID=Europe/Copenhagen:20250817T195500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Randers FC - Brøndby IF [3F Superliga]
+DESCRIPTION:Randers FC - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/94997
 DTSTAMP:20250729T230406
-LOCATION: TV3+\,  Viaplay
-SUMMARY: Randers FC - Brøndby IF [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:Randers FC - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD98187
@@ -210,12 +210,12 @@ DTEND;TZID=Europe/Copenhagen:20250821T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: RC Strasbourg Alsace - Brøndby IF [UEFA Europa Conference League]
+DESCRIPTION:RC Strasbourg Alsace - Brøndby IF [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/98187
 DTSTAMP:20250821T105216
-LOCATION: Disney+
-SUMMARY: RC Strasbourg Alsace - Brøndby IF [UEFA Europa Conference League]
+LOCATION:Disney+
+SUMMARY:RC Strasbourg Alsace - Brøndby IF [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95002
@@ -229,12 +229,12 @@ DTEND;TZID=Europe/Copenhagen:20250824T175500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Sønderjyske Fodbold - Brøndby IF [3F Superliga]
+DESCRIPTION:Sønderjyske Fodbold - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95002
 DTSTAMP:20250816T101559
-LOCATION: TV2 SPORT\,  TV2 Play
-SUMMARY: Sønderjyske Fodbold - Brøndby IF [3F Superliga]
+LOCATION:TV2 SPORT\,  TV2 Play
+SUMMARY:Sønderjyske Fodbold - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD98186
@@ -248,12 +248,12 @@ DTEND;TZID=Europe/Copenhagen:20250828T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - RC Strasbourg Alsace [UEFA Europa Conference League]
+DESCRIPTION:Brøndby IF - RC Strasbourg Alsace [UEFA Europa Conference League]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/98186
 DTSTAMP:20250828T102719
-LOCATION: Disney+
-SUMMARY: Brøndby IF - RC Strasbourg Alsace [UEFA Europa Conference League]
+LOCATION:Disney+
+SUMMARY:Brøndby IF - RC Strasbourg Alsace [UEFA Europa Conference League]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95010
@@ -267,12 +267,12 @@ DTEND;TZID=Europe/Copenhagen:20250831T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - FC Midtjylland [3F Superliga]
+DESCRIPTION:Brøndby IF - FC Midtjylland [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95010
 DTSTAMP:20250816T102919
-LOCATION: TV2 SPORT X\,  TV2 Play
-SUMMARY: Brøndby IF - FC Midtjylland [3F Superliga]
+LOCATION:TV2 SPORT X\,  TV2 Play
+SUMMARY:Brøndby IF - FC Midtjylland [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95011
@@ -286,12 +286,12 @@ DTEND;TZID=Europe/Copenhagen:20250913T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - F.C. København [3F Superliga]
+DESCRIPTION:Brøndby IF - F.C. København [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95011
 DTSTAMP:20250807T115509
-LOCATION: TV3+\,  Viaplay
-SUMMARY: Brøndby IF - F.C. København [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:Brøndby IF - F.C. København [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95017
@@ -305,12 +305,12 @@ DTEND;TZID=Europe/Copenhagen:20250921T195500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: AGF - Brøndby IF [3F Superliga]
+DESCRIPTION:AGF - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95017
 DTSTAMP:20250807T120213
-LOCATION: TV3+\,  Viaplay
-SUMMARY: AGF - Brøndby IF [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:AGF - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95023
@@ -324,12 +324,12 @@ DTEND;TZID=Europe/Copenhagen:20250928T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - OB [3F Superliga]
+DESCRIPTION:Brøndby IF - OB [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95023
 DTSTAMP:20250807T120511
-LOCATION: TV3+\,  Viaplay
-SUMMARY: Brøndby IF - OB [3F Superliga]
+LOCATION:TV3+\,  Viaplay
+SUMMARY:Brøndby IF - OB [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95033
@@ -343,12 +343,12 @@ DTEND;TZID=Europe/Copenhagen:20251005T215500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: FC Fredericia - Brøndby IF [3F Superliga]
+DESCRIPTION:FC Fredericia - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95033
 DTSTAMP:20250807T120920
-LOCATION: TV2 SPORT X\,  TV2 Play
-SUMMARY: FC Fredericia - Brøndby IF [3F Superliga]
+LOCATION:TV2 SPORT X\,  TV2 Play
+SUMMARY:FC Fredericia - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95037
@@ -362,12 +362,12 @@ DTEND;TZID=Europe/Copenhagen:20251019T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - AGF [3F Superliga]
+DESCRIPTION:Brøndby IF - AGF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95037
 DTSTAMP:20250612T101239
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Brøndby IF - AGF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Brøndby IF - AGF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95045
@@ -381,12 +381,12 @@ DTEND;TZID=Europe/Copenhagen:20251026T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: OB - Brøndby IF [3F Superliga]
+DESCRIPTION:OB - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95045
 DTSTAMP:20250612T101555
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: OB - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:OB - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95050
@@ -400,12 +400,12 @@ DTEND;TZID=Europe/Copenhagen:20251102T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Silkeborg IF - Brøndby IF [3F Superliga]
+DESCRIPTION:Silkeborg IF - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95050
 DTSTAMP:20250612T101641
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Silkeborg IF - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Silkeborg IF - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95054
@@ -419,12 +419,12 @@ DTEND;TZID=Europe/Copenhagen:20251109T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - FC Nordsjælland [3F Superliga]
+DESCRIPTION:Brøndby IF - FC Nordsjælland [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95054
 DTSTAMP:20250612T101921
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Brøndby IF - FC Nordsjælland [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Brøndby IF - FC Nordsjælland [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95060
@@ -438,12 +438,12 @@ DTEND;TZID=Europe/Copenhagen:20251116T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: F.C. København - Brøndby IF [3F Superliga]
+DESCRIPTION:F.C. København - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95060
 DTSTAMP:20250612T102026
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: F.C. København - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:F.C. København - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95066
@@ -457,12 +457,12 @@ DTEND;TZID=Europe/Copenhagen:20251123T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - FC Fredericia [3F Superliga]
+DESCRIPTION:Brøndby IF - FC Fredericia [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95066
 DTSTAMP:20250612T102233
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Brøndby IF - FC Fredericia [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Brøndby IF - FC Fredericia [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95075
@@ -476,12 +476,12 @@ DTEND;TZID=Europe/Copenhagen:20251130T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Vejle Boldklub - Brøndby IF [3F Superliga]
+DESCRIPTION:Vejle Boldklub - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95075
 DTSTAMP:20250612T101007
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Vejle Boldklub - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Vejle Boldklub - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95078
@@ -495,12 +495,12 @@ DTEND;TZID=Europe/Copenhagen:20260208T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Randers FC [3F Superliga]
+DESCRIPTION:Brøndby IF - Randers FC [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95078
 DTSTAMP:20250612T100534
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Brøndby IF - Randers FC [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Brøndby IF - Randers FC [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95086
@@ -514,12 +514,12 @@ DTEND;TZID=Europe/Copenhagen:20260215T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Viborg FF - Brøndby IF [3F Superliga]
+DESCRIPTION:Viborg FF - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95086
 DTSTAMP:20250612T100428
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Viborg FF - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Viborg FF - Brøndby IF [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95090
@@ -533,12 +533,12 @@ DTEND;TZID=Europe/Copenhagen:20260222T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: Brøndby IF - Sønderjyske Fodbold [3F Superliga]
+DESCRIPTION:Brøndby IF - Sønderjyske Fodbold [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95090
 DTSTAMP:20250612T100246
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: Brøndby IF - Sønderjyske Fodbold [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:Brøndby IF - Sønderjyske Fodbold [3F Superliga]
 END:VEVENT
 BEGIN:VEVENT
 UID:SOFABOLD95098
@@ -552,11 +552,11 @@ DTEND;TZID=Europe/Copenhagen:20260301T165500
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
-DESCRIPTION: FC Midtjylland - Brøndby IF [3F Superliga]
+DESCRIPTION:FC Midtjylland - Brøndby IF [3F Superliga]
 END:VALARM
 URL;VALUE=URI:https://sofabold.dk/event/95098
 DTSTAMP:20250612T100054
-LOCATION: Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
-SUMMARY: FC Midtjylland - Brøndby IF [3F Superliga]
+LOCATION:Ikke fastlagt (TV/Stream er endnu ikke fastlagt)
+SUMMARY:FC Midtjylland - Brøndby IF [3F Superliga]
 END:VEVENT
 END:VCALENDAR
